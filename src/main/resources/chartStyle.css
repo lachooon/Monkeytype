@@ -1,0 +1,27 @@
+.default-color0.chart-series-line { -fx-stroke: rgb(4, 107, 177); }
+.default-color1.chart-series-line { -fx-stroke: red; }
+
+.default-color1.chart-line-symbol {
+    -fx-background-color: transparent, transparent;
+}
+.default-color0.chart-line-symbol {
+    -fx-background-color: transparent, transparent;
+}
+
+.default-color0.chart-legend-item-symbol{
+    -fx-background-color: rgb(4, 107, 177);
+}
+.default-color1.chart-legend-item-symbol{
+    -fx-background-color: red;
+}
+
+.chart-plot-background {
+    -fx-background-color: rgba(52,51,56,255);
+}
+.chart-vertical-grid-lines {
+    -fx-stroke: transparent;
+}
+
+.chart-horizontal-grid-lines {
+    -fx-stroke: transparent;
+}
